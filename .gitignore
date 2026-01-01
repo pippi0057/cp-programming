@@ -1,3 +1,5 @@
 /tmp
 /.vscode
 /ac-library
+.cph/
+out/
